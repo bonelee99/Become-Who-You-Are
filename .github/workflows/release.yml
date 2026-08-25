@@ -17,6 +17,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Prepare asset with ASCII name
+        run: cp "智慧大全-20251210最新.pdf" zhihui-daquan.pdf
+
+      - name: Remove legacy mangled asset (one-time cleanup)
+        run: gh release delete-asset v1.0 "-20251210.pdf" --yes || true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GH_REPO: ${{ github.repository }}
+
       - name: Create release and upload PDF
         uses: softprops/action-gh-release@v2
         with:
@@ -26,4 +35,4 @@ jobs:
             《智慧大全——从认识自我到超越自我》全书电子版 PDF
 
             - 豆瓣页面：https://book.douban.com/subject/37424370/
-          files: 智慧大全-20251210最新.pdf
+          files: zhihui-daquan.pdf

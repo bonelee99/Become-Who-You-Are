@@ -294,9 +294,9 @@ OH卡，就像一面通往潜意识的镜子——它不评判，也不指导，
 ## 电子版下载
 
 [![Release 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
-[![PDF 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0/%E6%99%BA%E6%85%A7%E5%A4%A7%E5%85%A8-20251210%E6%9C%80%E6%96%B0.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
+[![PDF 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0/zhihui-daquan.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
 
-📖 [点击下载全书 PDF（智慧大全-20251210最新.pdf，约 20MB）](https://github.com/bonelee99/Become-Who-You-Are/releases/download/v1.0/%E6%99%BA%E6%85%A7%E5%A4%A7%E5%85%A8-20251210%E6%9C%80%E6%96%B0.pdf)
+📖 [点击下载全书 PDF（zhihui-daquan.pdf，约 20MB）](https://github.com/bonelee99/Become-Who-You-Are/releases/download/v1.0/zhihui-daquan.pdf)
 
 > ⏬ 下载次数由 GitHub Release 自动统计，徽章实时更新；详细数据可在 [Release 页面](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0) 查看。
 
