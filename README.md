@@ -60,8 +60,14 @@
 ## 作者介绍
 
 <p align="center">
-  <img src="images/author.png" alt="作者介绍" width="600">
+  <img src="images/author_avatar.png" alt="作者头像" width="200" style="border-radius: 50%;">
 </p>
+
+<p align="center">李智华，中科院博士，华为人工智能安全领域的 AI 算法专家。</p>
+
+> 热爱心理学，持有高级心理咨询师资格，师从艾瑞克森催眠大师研习心理疗愈，并随一行禅师深入学习禅宗禅修。
+>
+> 在古圣先贤智慧的无边海滩上，我不过是一个好奇的孩子，俯身拾起那些被浪花冲刷的、闪着光芒的思想贝壳，汇集成这本书籍《智慧大全》，以献给所有追寻生命真谛与内心光明的人。
 
 ---
 
@@ -419,9 +425,9 @@ OH卡，就像一面通往潜意识的镜子——它不评判，也不指导，
 ## 电子版下载
 
 [![Release 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
-[![PDF 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0/zhihui-daquan.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
+[![PDF 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0/Become-Who-You-Are.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
 
-📖 [点击下载全书 PDF（zhihui-daquan.pdf，约 20MB）](https://github.com/bonelee99/Become-Who-You-Are/releases/download/v1.0/zhihui-daquan.pdf)
+📖 [点击下载全书 PDF（Become-Who-You-Are.pdf，约 20MB）](https://github.com/bonelee99/Become-Who-You-Are/releases/download/v1.0/Become-Who-You-Are.pdf)
 
 > ⏬ 下载次数由 GitHub Release 自动统计，徽章实时更新；详细数据可在 [Release 页面](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0) 查看。
 
