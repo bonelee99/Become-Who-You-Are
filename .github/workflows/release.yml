@@ -21,10 +21,20 @@ jobs:
         run: cp "智慧大全-20251210最新.pdf" zhihui-daquan.pdf
 
       - name: Remove legacy mangled asset (one-time cleanup)
-        run: gh release delete-asset v1.0 "-20251210.pdf" --yes || true
+        run: |
+          ASSET_ID=$(curl -s -H "Authorization: token $GITHUB_TOKEN" \
+            "https://api.github.com/repos/$GITHUB_REPOSITORY/releases" | \
+            python3 -c "import json,sys; rs=json.load(sys.stdin); print(next((a['id'] for r in rs for a in r['assets'] if a['name']=='-20251210.pdf'), ''))")
+          if [ -n "$ASSET_ID" ]; then
+            echo "Deleting legacy asset id $ASSET_ID"
+            curl -s -X DELETE -H "Authorization: token $GITHUB_TOKEN" \
+              "https://api.github.com/repos/$GITHUB_REPOSITORY/releases/assets/$ASSET_ID"
+          else
+            echo "No legacy asset found"
+          fi
         env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          GH_REPO: ${{ github.repository }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_REPOSITORY: ${{ github.repository }}
 
       - name: Create release and upload PDF
         uses: softprops/action-gh-release@v2
