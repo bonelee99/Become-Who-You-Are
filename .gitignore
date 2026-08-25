@@ -1,0 +1,14 @@
+# PDF binary
+*.pdf
+
+# Word docx
+*.docx
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor
+*.swp
+*.swo
+*~

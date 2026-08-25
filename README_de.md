@@ -62,7 +62,7 @@ Derjenige, der selbst nach einer langen Reise immer jung im Herzen bleibt!
 ## Über den Autor
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="Porträt des Autors" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="Porträt des Autors" width="200">
 </p>
 
 <p align="center">Li Zhihua, Doktor der Chinesischen Akademie der Wissenschaften, KI-Algorithmus-Experte im Bereich der Sicherheit bei Huawei.</p>

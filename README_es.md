@@ -62,7 +62,7 @@ Ese ser libre, puro y completo,
 ## Sobre el autor
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="Retrato del autor" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="Retrato del autor" width="200">
 </p>
 
 <p align="center">Li Zhihua, doctor de la Academia China de Ciencias, experto en algoritmos de IA en el ámbito de la seguridad de Huawei.</p>

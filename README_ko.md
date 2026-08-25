@@ -62,7 +62,7 @@
 ## 저자 소개
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="저자 초상" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="저자 초상" width="200">
 </p>
 
 <p align="center">이지화(리 즈화), 중국과학원 박사, 화웨이 인공지능 보안 분야의 AI 알고리즘 전문가.</p>

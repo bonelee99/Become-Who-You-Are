@@ -62,7 +62,7 @@ That person who, even after wandering half a lifetime, still returns as a youth!
 ## About the Author
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="Author portrait" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="Author portrait" width="200">
 </p>
 
 <p align="center">Li Zhihua, Ph.D. from the Chinese Academy of Sciences, AI algorithm expert in Huawei's artificial intelligence security domain.</p>

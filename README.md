@@ -62,7 +62,7 @@
 ## 作者介绍
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="作者头像" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="作者头像" width="200">
 </p>
 
 <p align="center">李智华，中科院博士，华为人工智能安全领域的 AI 算法专家。</p>

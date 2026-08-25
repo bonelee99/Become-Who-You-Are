@@ -62,7 +62,7 @@ Celui qui, même après un long voyage, reste éternellement jeune de cœur !
 ## À propos de l'auteur
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="Portrait de l'auteur" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="Portrait de l'auteur" width="200">
 </p>
 
 <p align="center">Li Zhihua, docteur de l'Académie chinoise des sciences, expert en algorithmes d'IA dans le domaine de la sécurité de Huawei.</p>

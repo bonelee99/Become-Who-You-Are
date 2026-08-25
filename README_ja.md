@@ -62,7 +62,7 @@
 ## 著者紹介
 
 <p align="center">
-  <img src="images/author_avatar.png" alt="著者肖像" width="200" style="border-radius: 50%;">
+  <img src="images/author_avatar.png" alt="著者肖像" width="200">
 </p>
 
 <p align="center">李智華（り ちか）、中国科学院博士、華為人工知能セキュリティ分野のAIアルゴリズム専門家。</p>
