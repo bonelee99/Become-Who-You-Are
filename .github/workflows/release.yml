@@ -1,0 +1,29 @@
+name: Release PDF
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/release.yml'
+      - '智慧大全-20251210最新.pdf'
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Create release and upload PDF
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v1.0
+          name: 《智慧大全》电子版 v1.0
+          body: |
+            《智慧大全——从认识自我到超越自我》全书电子版 PDF
+
+            - 豆瓣页面：https://book.douban.com/subject/37424370/
+          files: 智慧大全-20251210最新.pdf

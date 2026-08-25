@@ -291,6 +291,17 @@ OH卡，就像一面通往潜意识的镜子——它不评判，也不指导，
 
 ---
 
+## 电子版下载
+
+[![Release 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
+[![PDF 下载次数](https://img.shields.io/github/downloads/bonelee99/Become-Who-You-Are/v1.0/%E6%99%BA%E6%85%A7%E5%A4%A7%E5%85%A8-20251210%E6%9C%80%E6%96%B0.svg)](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0)
+
+📖 [点击下载全书 PDF（智慧大全-20251210最新.pdf，约 20MB）](https://github.com/bonelee99/Become-Who-You-Are/releases/download/v1.0/%E6%99%BA%E6%85%A7%E5%A4%A7%E5%85%A8-20251210%E6%9C%80%E6%96%B0.pdf)
+
+> ⏬ 下载次数由 GitHub Release 自动统计，徽章实时更新；详细数据可在 [Release 页面](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0) 查看。
+
+---
+
 ## 关于本书
 
 | 项目 | 内容 |
@@ -307,7 +318,7 @@ OH卡，就像一面通往潜意识的镜子——它不评判，也不指导，
 
 ## 文件说明
 
-- `智慧大全-20251210最新.pdf` —— 全书电子版 PDF
+- `智慧大全-20251210最新.pdf` —— 全书电子版 PDF（推荐从 [Release](https://github.com/bonelee99/Become-Who-You-Are/releases/v1.0) 下载，有下载次数统计）
 - `个人经历和几个经典案例.docx` —— 作者个人经历与 OH 卡经典案例
 - `chapter1_preview.txt` —— 第一章试读文本
 - `preview.md` —— 精选试读：个人成长之路 + OH 卡应用案例
