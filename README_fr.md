@@ -38,7 +38,7 @@ Ces difficultés ne sont pas le fruit du hasard. Le psychologue Jung l'a profond
 
 *La Grande Sagesse — Se connaître soi-même et se dépasser* est précisément la clé, le miroir et la lampe que vous cherchiez. Ce n'est pas une fin, mais une invitation à un voyage d'auto-guérison et de dépassement.
 
-L'auteur, Li Zhihua, docteur de l'Académie chinoise des sciences, expert en algorithmes d'IA dans le domaine de la sécurité de Huawei, passionné de psychologie, titulaire du diplôme de psychothérapeute senior, a étudié la guérison psychologique auprès d'un maître de l'hypnose ericksonienne et exploré profondément la méditation zen avec le maître Thich Nhat Hanh. Sur la plage infinie de la sagesse des anciens, il se décrit comme un enfant curieux, ramassant les coquillages de pensée étincelants lavés par les vagues — rassemblant ces gouttes dans *La Grande Sagesse*, dédiée à chaque lecteur en quête de vérité de vie et de lumière intérieure.
+L'auteur, Li Zhihua, expert en algorithmes d'IA dans le domaine de la sécurité de Huawei, passionné de psychologie à titre d'amateur, titulaire du diplôme de psychothérapeute senior, a étudié la guérison psychologique auprès d'un maître de l'hypnose ericksonienne et exploré profondément la méditation zen avec le maître Thich Nhat Hanh. Sur la plage infinie de la sagesse des anciens, il se décrit comme un enfant curieux, ramassant les coquillages de pensée étincelants lavés par les vagues — rassemblant ces gouttes dans *La Grande Sagesse*, dédiée à chaque lecteur en quête de vérité de vie et de lumière intérieure.
 
 Ce livre suit le chemin de croissance « chameau-lion-enfant » de Nietzsche, guidant le lecteur du « chameau » qui porte des fardeaux et réprime son moi, vers le « lion » capable de s'affirmer et de posséder sa propre force, pour finalement revenir à l'« enfant » pur, ouvert et aux possibilités infinies.
 
@@ -65,9 +65,9 @@ Celui qui, même après un long voyage, reste éternellement jeune de cœur !
   <img src="images/author_avatar.png" alt="Portrait de l'auteur" width="200">
 </p>
 
-<p align="center">Li Zhihua, docteur de l'Académie chinoise des sciences, expert en algorithmes d'IA dans le domaine de la sécurité de Huawei.</p>
+<p align="center">Li Zhihua, expert en algorithmes d'IA dans le domaine de la sécurité de Huawei.</p>
 
-> Passionné de psychologie, titulaire du diplôme de psychothérapeute senior, il a étudié la guérison psychologique auprès d'un maître de l'hypnose ericksonienne et approfondi la méditation zen avec le maître Thich Nhat Hanh.
+> Passionné de psychologie à titre d'amateur, titulaire du diplôme de psychothérapeute senior, il a étudié la guérison psychologique auprès d'un maître de l'hypnose ericksonienne et approfondi la méditation zen avec le maître Thich Nhat Hanh.
 >
 > Sur la plage infinie de la sagesse des anciens, je ne suis qu'un enfant curieux, me penchant pour ramasser les coquillages de pensée étincelants lavés par les vagues, les rassemblant dans ce livre *La Grande Sagesse*, dédié à tous ceux qui cherchent la vérité de la vie et la lumière intérieure.
 

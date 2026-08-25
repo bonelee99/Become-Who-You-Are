@@ -38,7 +38,7 @@ Estas dificultades no son casualidad. El psicólogo Jung lo señaló profundamen
 
 *La Gran Sabiduría — De conocerte a superarte* es precisamente la llave, el espejo y la lámpara que buscabas. No es un fin, sino una invitación a un viaje de autosanación y superación.
 
-El autor, Li Zhihua, doctor de la Academia China de Ciencias, experto en algoritmos de IA en el ámbito de la seguridad de Huawei, apasionado de la psicología, con el título de psicoterapeuta senior, estudió la sanación psicológica con un maestro de la hipnosis ericksoniana y exploró profundamente la meditación zen con el maestro Thich Nhat Hanh. En la playa infinita de la sabiduría de los antiguos, se describe como un niño curioso que se inclina a recoger las conchas de pensamiento brillantes lavadas por las olas, reuniendo esas gotas en *La Gran Sabiduría*, dedicada a cada lector que anhela la verdad de la vida y la luz interior.
+El autor, Li Zhihua, experto en algoritmos de IA en el ámbito de la seguridad de Huawei, con la psicología como afición, con el título de psicoterapeuta senior, estudió la sanación psicológica con un maestro de la hipnosis ericksoniana y exploró profundamente la meditación zen con el maestro Thich Nhat Hanh. En la playa infinita de la sabiduría de los antiguos, se describe como un niño curioso que se inclina a recoger las conchas de pensamiento brillantes lavadas por las olas, reuniendo esas gotas en *La Gran Sabiduría*, dedicada a cada lector que anhela la verdad de la vida y la luz interior.
 
 Este libro sigue el camino de crecimiento "camello-león-niño" de Nietzsche, guiando al lector desde el "camello" que carga fardos y reprime su yo, hacia el "león" capaz de afirmarse y poseer su propia fuerza, para finalmente regresar al "niño" puro, abierto y de posibilidades infinitas.
 
@@ -65,9 +65,9 @@ Ese ser libre, puro y completo,
   <img src="images/author_avatar.png" alt="Retrato del autor" width="200">
 </p>
 
-<p align="center">Li Zhihua, doctor de la Academia China de Ciencias, experto en algoritmos de IA en el ámbito de la seguridad de Huawei.</p>
+<p align="center">Li Zhihua, experto en algoritmos de IA en el ámbito de la seguridad de Huawei.</p>
 
-> Apasionado de la psicología, con el título de psicoterapeuta senior, estudió la sanación psicológica con un maestro de la hipnosis ericksoniana y profundizó la meditación zen con el maestro Thich Nhat Hanh.
+> Con la psicología como afición, con el título de psicoterapeuta senior, estudió la sanación psicológica con un maestro de la hipnosis ericksoniana y profundizó la meditación zen con el maestro Thich Nhat Hanh.
 >
 > En la playa infinita de la sabiduría de los antiguos, no soy más que un niño curioso que se inclina para recoger las conchas de pensamiento brillantes lavadas por las olas, reuniéndolas en este libro *La Gran Sabiduría*, dedicado a todos los que buscan la verdad de la vida y la luz interior.
 

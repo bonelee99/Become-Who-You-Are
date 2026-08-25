@@ -38,7 +38,7 @@ These predicaments are not accidental. The psychologist Jung profoundly pointed 
 
 *The Complete Wisdom — From Knowing Yourself to Transcending Yourself* is precisely the key, the mirror, and the lamp you have been searching for. It is not the destination, but an invitation to a journey of self-healing and transcendence.
 
-The author, Li Zhihua, holds a Ph.D. from the Chinese Academy of Sciences and is an AI algorithm expert in Huawei's artificial intelligence security domain. Passionate about psychology, he holds an advanced psychological counselor qualification, studied psychological healing under the Ericksonian hypnosis master, and deeply explored Zen meditation with Thich Nhat Hanh. On the boundless beach of ancient sages' wisdom, he describes himself as a curious child, bending down to pick up thought shells washed by the waves and gleaming — gathering these drops into *The Complete Wisdom*, dedicated to every reader who longs to seek the true meaning of life and the light within.
+The author, Li Zhihua, is an AI algorithm expert in Huawei's artificial intelligence security domain. With psychology as an amateur pursuit, he holds an advanced psychological counselor qualification, studied psychological healing under the Ericksonian hypnosis master, and deeply explored Zen meditation with Thich Nhat Hanh. On the boundless beach of ancient sages' wisdom, he describes himself as a curious child, bending down to pick up thought shells washed by the waves and gleaming — gathering these drops into *The Complete Wisdom*, dedicated to every reader who longs to seek the true meaning of life and the light within.
 
 This book takes Nietzsche's "camel-lion-child" growth path as its thread, guiding people from the "camel" burdened with heavy loads and suppressed self, to the "lion" who dares to express and possesses autonomous power, and finally to the "child" who returns to innocence, openness, and infinite possibility.
 
@@ -65,9 +65,9 @@ That person who, even after wandering half a lifetime, still returns as a youth!
   <img src="images/author_avatar.png" alt="Author portrait" width="200">
 </p>
 
-<p align="center">Li Zhihua, Ph.D. from the Chinese Academy of Sciences, AI algorithm expert in Huawei's artificial intelligence security domain.</p>
+<p align="center">Li Zhihua, AI algorithm expert in Huawei's artificial intelligence security domain.</p>
 
-> Passionate about psychology, holding an advanced psychological counselor qualification, studied psychological healing under the Ericksonian hypnosis master, and deeply explored Zen meditation with Thich Nhat Hanh.
+> With psychology as an amateur pursuit, holding an advanced psychological counselor qualification, studied psychological healing under the Ericksonian hypnosis master, and deeply explored Zen meditation with Thich Nhat Hanh.
 >
 > On the boundless beach of ancient sages' wisdom, I am but a curious child, bending down to pick up those thought shells washed by the waves and gleaming, gathering them into this book *The Complete Wisdom*, dedicated to all who seek the true meaning of life and the light within.
 

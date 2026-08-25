@@ -38,7 +38,7 @@ Diese Schwierigkeiten sind kein Zufall. Der Psychologe Jung hat es treffend form
 
 *Die große Weisheit – Sich selbst erkennen und übertreffen* ist genau der Schlüssel, der Spiegel und die Lampe, nach denen du gesucht hast. Es ist kein Ende, sondern eine Einladung zu einer Reise der Selbstheilung und Selbstüberwindung.
 
-Der Autor Li Zhihua, Doktor der Chinesischen Akademie der Wissenschaften, KI-Algorithmus-Experte im Bereich der Sicherheit bei Huawei, leidenschaftlicher Psychologe mit dem Diplom des Senior-Psychotherapeuten, studierte die psychische Heilung bei einem Meister der Erikson-Hypnose und erforschte mit dem Meister Thich Nhat Hanh tief die Zen-Meditation. Am endlosen Strand der Weisheit der Antike beschreibt er sich als neugieriges Kind, das sich bückt, um die von den Wellen gewaschenen, glitzernden Denk-Muscheln aufzuheben – diese Tropfen in *Die große Weisheit* zu sammeln, gewidmet jedem Leser, der die Wahrheit des Lebens und das innere Licht sucht.
+Der Autor Li Zhihua, KI-Algorithmus-Experte im Bereich der Sicherheit bei Huawei, mit Psychologie als Hobby und dem Diplom des Senior-Psychotherapeuten, studierte die psychische Heilung bei einem Meister der Erikson-Hypnose und erforschte mit dem Meister Thich Nhat Hanh tief die Zen-Meditation. Am endlosen Strand der Weisheit der Antike beschreibt er sich als neugieriges Kind, das sich bückt, um die von den Wellen gewaschenen, glitzernden Denk-Muscheln aufzuheben – diese Tropfen in *Die große Weisheit* zu sammeln, gewidmet jedem Leser, der die Wahrheit des Lebens und das innere Licht sucht.
 
 Dieses Buch folgt dem Weg der "Kamel-Löwe-Kind"-Entwicklung Nietzsches und führt den Leser vom "Kamel", das Lasten trägt und sein Selbst unterdrückt, zum "Löwen", der sich behaupten und eigene Kraft besitzen kann, um schließlich zum "Kind" zurückzukehren, das rein, offen und voller unendlicher Möglichkeiten ist.
 
@@ -65,9 +65,9 @@ Derjenige, der selbst nach einer langen Reise immer jung im Herzen bleibt!
   <img src="images/author_avatar.png" alt="Porträt des Autors" width="200">
 </p>
 
-<p align="center">Li Zhihua, Doktor der Chinesischen Akademie der Wissenschaften, KI-Algorithmus-Experte im Bereich der Sicherheit bei Huawei.</p>
+<p align="center">Li Zhihua, KI-Algorithmus-Experte im Bereich der Sicherheit bei Huawei.</p>
 
-> Leidenschaftlicher Psychologe, Inhaber des Diploms des Senior-Psychotherapeuten, studierte er die psychische Heilung bei einem Meister der Erikson-Hypnose und vertiefte die Zen-Meditation mit dem Meister Thich Nhat Hanh.
+> Mit Psychologie als Hobby, Inhaber des Diploms des Senior-Psychotherapeuten, studierte er die psychische Heilung bei einem Meister der Erikson-Hypnose und vertiefte die Zen-Meditation mit dem Meister Thich Nhat Hanh.
 >
 > Am endlosen Strand der Weisheit der Antike bin ich nur ein neugieriges Kind, das sich bückt, um die von den Wellen gewaschenen, glitzernden Denk-Muscheln aufzuheben und sie in diesem Buch *Die große Weisheit* zu sammeln, gewidmet allen, die die Wahrheit des Lebens und das innere Licht suchen.
 
