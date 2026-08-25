@@ -9,7 +9,7 @@
 ## Buchumschlag
 
 <p align="center">
-  <img src="images/cover.png" alt="Umschlag von Die große Weisheit" width="400">
+  <img src="images/cover.png" alt="Umschlag von Die große Weisheit" width="800">
 </p>
 
 ---

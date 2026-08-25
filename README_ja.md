@@ -9,7 +9,7 @@
 ## 書籍カバー
 
 <p align="center">
-  <img src="images/cover.png" alt="知恵大全の表紙" width="400">
+  <img src="images/cover.png" alt="知恵大全の表紙" width="800">
 </p>
 
 ---

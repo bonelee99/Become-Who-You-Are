@@ -9,7 +9,7 @@
 ## Couverture du livre
 
 <p align="center">
-  <img src="images/cover.png" alt="Couverture de La Grande Sagesse" width="400">
+  <img src="images/cover.png" alt="Couverture de La Grande Sagesse" width="800">
 </p>
 
 ---

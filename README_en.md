@@ -9,7 +9,7 @@
 ## Book Cover
 
 <p align="center">
-  <img src="images/cover.png" alt="The Complete Wisdom book cover" width="400">
+  <img src="images/cover.png" alt="The Complete Wisdom book cover" width="800">
 </p>
 
 ---

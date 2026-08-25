@@ -9,7 +9,7 @@
 ## 책 표지
 
 <p align="center">
-  <img src="images/cover.png" alt="지혜대전 표지" width="400">
+  <img src="images/cover.png" alt="지혜대전 표지" width="800">
 </p>
 
 ---

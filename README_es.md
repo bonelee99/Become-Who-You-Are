@@ -9,7 +9,7 @@
 ## Portada del libro
 
 <p align="center">
-  <img src="images/cover.png" alt="Portada de La Gran Sabiduría" width="400">
+  <img src="images/cover.png" alt="Portada de La Gran Sabiduría" width="800">
 </p>
 
 ---

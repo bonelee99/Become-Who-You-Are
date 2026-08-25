@@ -9,7 +9,7 @@
 ## 书籍封面
 
 <p align="center">
-  <img src="images/cover.png" alt="智慧大全封面" width="400">
+  <img src="images/cover.png" alt="智慧大全封面" width="800">
 </p>
 
 ---
